@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Breath Panel
+Description=Default Breath Panel
+Type=Service
+X-KDE-ServiceTypes=Plasma/LayoutTemplate
+X-Plasma-Shell=plasmashell
+X-Plasma-ContainmentCategories=panel
+X-KDE-PluginInfo-Author=Artem Grinev
+X-KDE-PluginInfo-Email=agrinev@manjaro.org
+X-KDE-PluginInfo-Name=org.manjaro.desktop.breathPanel
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://gitlab.manjaro.org/artwork/themes/breath
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-License=LGPLv2+
+X-KDE-PluginInfo-EnabledByDefault=true

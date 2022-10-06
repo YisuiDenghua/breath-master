@@ -1,0 +1,29 @@
+[Desktop Entry]
+Name=Breath Light
+Comment=Manjaro Branded Theme (Light Variant)
+X-KDE-PluginInfo-Author=Manjaro Team
+X-KDE-PluginInfo-Name=BreathLight
+X-KDE-PluginInfo-Version=0.2.0
+X-KDE-PluginInfo-Website=https://gitlab.manjaro.org
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=CC BY-ND (GPL in Breeze Elements)
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+Name[de_DE.utf8]=Breath Light
+
+[Wallpaper]
+defaultWallpaperTheme=Bamboo
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
+
+[AdaptiveTransparency]
+enabled=true
+
+[ContrastEffect]
+enabled=true
+contrast=0.17
+intensity=0.7
+saturation=9
+
